@@ -1,6 +1,6 @@
 # Consultor de CEP
 
-Link para acessar o website: https://arthuro08.github.io/API-ConsultorCPF/
+Link para acessar o website: https://consultor-de-ncg0crba2-thurozs.vercel.app
 
 ## Stacks Utilizadas
 
