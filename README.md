@@ -1,6 +1,6 @@
 # Consultor de CEP
 
-Link para acessar o website: [https://consultor-de-ncg0crba2-thurozs.vercel.app](https://consultor-de-cep-eight.vercel.app/)
+Link para acessar o website: https://consultor-de-cep-eight.vercel.app/
 
 ## Stacks Utilizadas
 
